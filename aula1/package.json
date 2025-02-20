@@ -1,0 +1,14 @@
+{
+  "name": "aula1",
+  "version": "1.0.0",
+  "description": "aula de sw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aula1"
+  ],
+  "author": "Victor Sena Icoma",
+  "license": "MIT"
+}
